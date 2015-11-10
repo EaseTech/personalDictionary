@@ -6,6 +6,8 @@ IPS - Intrusion Prevention System
 Signature Based Defenses - Defense againt known Malware/Virus that has already infected atleast one system
 SIEM - Security Information and Event management Solution
 SOC - Security Operations Center
+CTP - Cyber Threat Progression 
+TTP - Tactics, techniques and Procedures (for eg. specific type of spearphish email)
 Cyber Threat Intelligence
 “Cyber threat intelligence is knowledge about adversaries
 and their motivations, intentions, and methods that is col-
