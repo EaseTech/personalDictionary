@@ -17,3 +17,9 @@ enterprise.”
 PII - Personal Identifiable Information (name, place, age, social security number etc)
 
 Honeypots are computers that simulate the activities of web servers, email servers, and other systems, and of computer users surfng the web. These sensors collect fles and emails that would be encountered by corporate systems and users during the course of normal operations.
+
+=======
+Has a password in perl and python
+perl -e 'print crypt("mypass","\$6\$mysalt\$") . "\n"'
+
+python -c "import crypt, getpass, pwd; print crypt.crypt('mypass', '\$6\$mysalt\$')"
